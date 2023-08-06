@@ -1,0 +1,11 @@
+2023-08-06 02:08:26.380466 - Initialized conversion of CBT193
+2023-08-06 02:08:26.451321 - Received CBT.V505.FILE193.PDS from FILE193.XMI 
+2023-08-06 02:08:26.453637 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE193.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:08:26.454638 - Found $$REF.txt (text/plain) in CBT.V505.FILE193.PDS, moved to PDS/$$REF
+2023-08-06 02:08:26.455687 - Found @FILE193.txt (text/plain) in CBT.V505.FILE193.PDS, moved to PDS/@FILE193
+2023-08-06 02:08:26.456639 - Found CASSCOPY.jcl (text/plain) in CBT.V505.FILE193.PDS, moved to PDS/CASSCOPY
+2023-08-06 02:08:26.457594 - Found TCOPY.txt (text/plain) in CBT.V505.FILE193.PDS, moved to PDS/TCOPY
+2023-08-06 02:08:26.458512 - Found TCOPY#.jcl (text/plain) in CBT.V505.FILE193.PDS, moved to PDS/TCOPY#
+2023-08-06 02:08:26.459411 - Found TCOPYJ.jcl (text/plain) in CBT.V505.FILE193.PDS, moved to PDS/TCOPYJ
+2023-08-06 02:08:26.460251 - Found TCOPYLST.jcl (text/plain) in CBT.V505.FILE193.PDS, moved to PDS/TCOPYLST
+2023-08-06 02:08:26.461111 - Found TPLABJ.jcl (text/plain) in CBT.V505.FILE193.PDS, moved to PDS/TPLABJ
